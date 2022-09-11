@@ -1,9 +1,9 @@
-## Hello. My name is Abijah Nesbitt, and I'm a full-stack developer. 👋
-### I'm currently a high school student
+## Hello. My name is Abijah Nesbitt, and I'm a Computer Science student. 👋
+### I'm currently a college freshman at the University of Florida
 
 
 
-- 🔭 I’m currently working on a company website
+- 🔭 I’m currently looking for internships
 - 🌱 I’m currently learning how to use API's and databases with React/React Native
 - 🤔 I’m looking for help with learning back-end technologies, such as MongoDB, RESTful API's, and Node.js
 - 💬 Ask me about my current and future projects and aspirations
@@ -14,7 +14,7 @@
 [<img align="left" alt="ajgianthead | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ajgianthead  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" background-color="#fff" />][instagram]
 <br />
-#### Email: abijah.nez@gmail.com
+#### Email: abijahnesbitt@ufl.edu
 
 
 
